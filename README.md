@@ -3,13 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suraj0307&label=Profile%20views&color=0e75b6&style=flat" alt="suraj0307" /> </p>
 
-- 🔭 I’m currently working on **Flight Fare Estimator**
+- 🔭 I’m currently working on **A new project**
 
 - 🌱 I’m currently learning **Deep Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Suraj0307](https://github.com/Suraj0307)
 
 - 📫 How to reach me **joshisuraj535@gmail.com**
+- I currently completed my internship with ineuron![image](https://user-images.githubusercontent.com/90147205/144755866-aeb94f47-5d8d-43a5-a4e3-5c1b64b540ff.png)
+Project Link:https://github.com/Suraj0307/Flight_Fare_Estimator_Project_1
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
