@@ -10,8 +10,9 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Suraj0307](https://github.com/Suraj0307)
 
 - 📫 How to reach me **joshisuraj535@gmail.com**
-- I currently completed my internship with ineuron![image](https://user-images.githubusercontent.com/90147205/144755866-aeb94f47-5d8d-43a5-a4e3-5c1b64b540ff.png)
-Project Link:https://github.com/Suraj0307/Flight_Fare_Estimator_Project_1
+- I currently completed my internship with ineuron ![image](https://user-images.githubusercontent.com/90147205/149506678-4c20e891-b21b-4283-9d5d-689d59e62854.png)
+
+Project Link:https://github.com/Suraj0307/Spam-Ham_Classifier_Project_2
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
